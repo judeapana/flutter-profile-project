@@ -1,16 +1,7 @@
-# flutter_profile
+# Flutter Profile
 
-A new Flutter project.
+Simple profile app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-12-10 at 09 54 11_35f8cbb7](https://github.com/judeapana/flutter-profile-project/assets/56265643/09e93202-d94e-46b7-996f-3362086193c9)
